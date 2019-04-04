@@ -8,3 +8,8 @@ before install:
 -pip install translate
 ```
  for installing the module <b>translate</b>.
+ 
+ 
+ It can also be added to other classes as well,as per requirement .
+ 
+An example for the use case is shown in example1.py
