@@ -23,5 +23,5 @@ pip install pattern
 |---                |
 |[Malayalam News Classification](09-malayalam/malayalam_news_classification/Readme.md)
 |[Optical Character Recognition](OCR-recognition_API)|
-
+|[PDF summarisation](PDF-summarisation)|
 
