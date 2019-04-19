@@ -21,6 +21,6 @@ pip install pattern
 
 |Contributions      |
 |---                |
-|[Malayalam News Classification](09-malayalam/malayalam news classification/)
+|[Malayalam News Classification](09-malayalam/malayalam news classification/Readme.md)
 
 
