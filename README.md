@@ -9,7 +9,7 @@
 <br>Pattern is a web mining tools which uses NLP,machine learning,web scraping,etc.</br>
 
 
-For installation, enter in terminal
+For installation, enter in your terminal
 
 
 ```
@@ -27,3 +27,4 @@ pip install pattern
 |[translation without google translate](translation_for_twitter)|
 |[Updating_singularize_function](updating_singularize_function)|
 
+hi
