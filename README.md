@@ -27,4 +27,4 @@ pip install pattern
 |[translation without google translate](translation_for_twitter)|
 |[Updating_singularize_function](updating_singularize_function)|
 
-hi
+
